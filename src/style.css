@@ -1,0 +1,19 @@
+.status-placed {
+    color: blue;
+}
+
+.status-confirmed {
+    color: orange;
+}
+
+.status-shipped {
+    color: green;
+}
+
+.status-out-for-delivery {
+    color: purple;
+}
+
+.status-delivered {
+    color: gray;
+}
